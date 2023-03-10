@@ -1,3 +1,4 @@
+namespace 元祖类型 {
 // 定义为元组的两个点之间的距离
 
 type Point = [number, number]
@@ -115,6 +116,7 @@ class Currency2 {
     this.cents = cents
       
   }
+}
 }
 
 
